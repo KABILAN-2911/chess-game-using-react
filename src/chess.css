@@ -1,0 +1,19 @@
+.Black{
+    width:75px;
+    height: 75px;
+     border: solid 1px;
+    border-collapse:null; 
+     background-color:rgb(241, 175, 94);
+ }
+.White{
+    width:70px;
+    height: 70px;
+    border: solid 1px;
+    border-collapse: collapse;
+    background-color:bisque;
+
+}
+table,td{
+    border: solid 1 px black;
+    border-collapse:collapse;
+}
